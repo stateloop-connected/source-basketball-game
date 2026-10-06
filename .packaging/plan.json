@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc -b && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "yarn.lock",
+  "mode": "native_source_build",
+  "repository": "EgorNovo/basketball-game",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "dc5f488b6656d3754721148c8790ccf06a323350"
+}
